@@ -20,6 +20,8 @@ console.log(arr);
 
 
 
+
+
 let updateRed=()=>{
  
     setMove((obj)=>{
